@@ -24,7 +24,7 @@ fn run() -> io::Result<()> {
     let path = Path::new(".");
     let file = File::create("archive.zip")?;
 
-    // See !(http://mvdnes.github.io/rust-docs/zip-rs/zip/write/struct.FileOptions.html) for options
+    // See http://mvdnes.github.io/rust-docs/zip-rs/zip/write/struct.FileOptions.html for options
     // Passing None uses the default options with no compression
     let options = None;
 
