@@ -3,6 +3,9 @@ name = "zip-dir"
 version = "0.1.0"
 authors = ["Alexander Mielczarek <almielczarek@gmail.com>"]
 edition = "2018"
+description = "A crate providing an easy way to create a ZIP archive of a directory"
+repository = "https://github.com/almielczarek/zip-dir"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
