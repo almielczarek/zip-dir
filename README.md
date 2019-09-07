@@ -1,7 +1,7 @@
 # zip-dir
 
 ![crates.io](https://img.shields.io/crates/v/zip-dir.svg)
-![Docs](https://docs.rs/mio/badge.svg)
+![Docs](https://docs.rs/zip-dir/badge.svg)
 
 Usage
 -----
